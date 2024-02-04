@@ -531,6 +531,8 @@ body.dark-theme{
   padding-left: 1.25rem;
 }
 .about__description{
+  left: -30%;
+  width: 40rem;
   font-size: 1.3rem;
   position: relative;
   color: var(--title-color);
@@ -904,12 +906,16 @@ body.dark-theme{
   }
 }
 @media screen and (max-width: 832px){
+  .about__description{
+    left: 5%;
+    width: 20rem;
+  }
   .designer{
     margin-left: 40%;
   }
 }
 @media screen and (max-width: 600px){
-  .designer{
+    .designer{
     margin-left: 40%;
   }
 }
@@ -917,6 +923,7 @@ body.dark-theme{
   .designer{
     margin-left: 35%;
   }
+  
 }
 @media screen and (max-width: 380px){
   .designer{

@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **saifulcseian@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/12JwphXhpqKYHN0RF74wlH5jyiQPxSyISsG4HpHS44Pg/edit?usp=sharing](https://docs.google.com/document/d/12JwphXhpqKYHN0RF74wlH5jyiQPxSyISsG4HpHS44Pg/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/12JwphXhpqKYHN0RF74wlH5jyiQPxSyISsG4HpHS44Pg/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

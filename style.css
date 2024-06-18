@@ -597,7 +597,7 @@ body.dark-theme{
 .projects__button{
   margin-top: 1rem;
   border-radius: 5px;
-  width: 20%;
+  /* width: 20%; */
   padding: 2rem;
 }
 /* FOR THE GITHUB BUTTON */
@@ -960,6 +960,25 @@ body.dark-theme{
 @media screen and (max-width: 320px){
   .about__shadow{
     height: 15rem;
+  }
+  .about__description{
+    width: 90%;
+  }
+  .list{
+    width: max-content;
+  }
+
+  .projects__button{
+    font-size: 12px;
+    width: 10rem;
+    height: 5px;
+  }
+  .projects__button i{
+    font-size: 1rem;
+  }
+
+  .contact__data{
+    width: 90%;
   }
 }
 /* For large devices */

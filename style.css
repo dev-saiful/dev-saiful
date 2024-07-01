@@ -624,78 +624,43 @@ body.dark-theme{
 }
 
 /* ================= HIRE ME =============== */
-.hire_me{
+.hire-me {
   margin: 0 auto;
-  padding: 10px;
-  width: 90%;
-  height: 10rem;
   background-color: #F2F2F2;
-  border-radius: 10px;
+  width: 90%;
+  height: 200px;
 }
-.hire_me-header{
+
+.hire-me-header {
   color: black;
-  font-size: 2.7rem;
-  font-weight: 800;
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin: 5px;
 }
-.hire_me-links{
+
+.hire-me-buttons {
   display: flex;
-  flex-direction: row;
   justify-content: space-around;
-  margin-top: 10px;
+  margin-top: 3.5%;
 }
-.btn_1{
-  margin: 10px 5px;
-  background-color: blue;
+
+.hire-me-buttons button {
   width: max-content;
-  height: 1.5rem;
+  height: 40px;
+  padding: 0 10px;
+  border: none;
   border-radius: 3px;
+  outline: none;
 }
-.btn_2{
-  margin-right: 5px;
-  background-color: black;
-  width: max-content;
-  height: 1.5rem;
-  border-radius: 3px;
-}
-.btn_3{
-  margin-right: 5px;
-  background-color: #F02879;
-  width: max-content;
-  height: 1.5rem;
-  border-radius: 3px;
-}
-.btn_4{
-  margin-right: 5px;
-  background-color: black;
-  width: max-content;
-  height: 1.5rem;
-  border-radius: 3px;
-}
-.btn_5{
-  margin-right: 5px;
-  background-color: green;
-  width: max-content;
-  height: 1.5rem;
-  border-radius: 3px;
-}
-.btn_6{
-  margin-right: 5px;
-  background-color: black;
-  color: orange;
-  width: max-content;
-  height: 1.5rem;
-  border-radius: 3px;
-}
-.btn_7{
-  margin-right: 5px;
-  background-color: seagreen;
-  width: max-content;
-  height: 1.5rem;
-  border-radius: 3px;
-}
-.hire_me-btn{
+
+.hire-me-buttons a {
   color: white;
-  padding: 10px;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.linkedin {
+  background-color: blue;
 }
 
 /*=============== CONTACT ===============*/

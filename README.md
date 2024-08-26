@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/dev-saiful?tab=repositories)
 
-- 💬 Ask me about **Node.js, Restful API, Back-end development**
+- 💬 Ask me about **JavaScript, Node.js, API, Back-end development, Software Development**
 
 - 📫 How to reach me **dev-saiful@outlook.com**
   
-- 🌐 Visit my portfolio **www.dev-saiful.me**
+- 🌐 Visit my portfolio **https://dev-saiful.me**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uphppbUFY0wiKEd7QVzvIzCJCL4FnGf2/view?usp=sharing)
 

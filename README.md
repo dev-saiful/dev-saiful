@@ -7,17 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/dev_saiful" target="blank"><img src="https://img.shields.io/twitter/follow/dev_saiful?logo=twitter&style=for-the-badge" alt="dev_saiful" /></a> </p>
 
-- 🔭 I’m currently working on [CodeColab](https://github.com/dev-saiful/codecolab-server)
+- 🔭 I’m currently working on [RaddSoft](www.raddsoft.com)
 
-- 🌱 I’m currently learning **ERP System, Socket.io, Microsevices,Cloud Computing**
+- 🌱 I’m currently learning **ERP System, Socket.io, Microservices, Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dev-saiful?tab=repositories](https://github.com/dev-saiful?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/dev-saiful?tab=repositories)
 
-- 💬 Ask me about **Node.js,Restful API,Back-end development**
+- 💬 Ask me about **Node.js, Restful API, Back-end development**
 
-- 📫 How to reach me **saifulcseian@gmail.com**
+- 📫 How to reach me **dev-saiful@outlook.com**
+  
+- 🌐 Visit my portfolio **www.dev-saiful.me**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/12JwphXhpqKYHN0RF74wlH5jyiQPxSyISsG4HpHS44Pg/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uphppbUFY0wiKEd7QVzvIzCJCL4FnGf2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

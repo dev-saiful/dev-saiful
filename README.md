@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Product Management System**
 
-- 🌱 I’m currently learning **Vue and Golang**
+- 🌱 I’m currently learning **React and CSS**
 
 - 👨‍💻 All of my projects are available at [dev-saiful.me](https://dev-saiful.me)
 

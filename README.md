@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dev_saiful" target="blank"><img src="https://img.shields.io/twitter/follow/dev_saiful?logo=twitter&style=for-the-badge" alt="dev_saiful" /></a> </p>
 
-- 🔭 I’m currently working on **Product Management System**
+- 🔭 I’m currently working on **DailyAmal**
 
 - 🌱 I’m currently learning **React and CSS**
 

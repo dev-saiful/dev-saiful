@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **DailyAmal**
 
-- 🌱 I’m currently learning **React and CSS**
+- 🌱 I’m currently learning **GenAI**
 
 - 👨‍💻 All of my projects are available at [dev-saiful.me](https://dev-saiful.me)
 
-- 💬 Ask me about **API Development**
+- 💬 Ask me about **Back-end System**
 
 - 📫 How to reach me **dev-saiful@outlook.com**
 

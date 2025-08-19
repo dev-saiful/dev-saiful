@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **GenAI**
 
-- 👨‍💻 All of my projects are available at [dev-saiful.me](https://dev-saiful.me)
+- 👨‍💻 All of my projects are available at [dev-saiful.me](https://saiful.vercel.app)
 
 - 💬 Ask me about **Back-end System**
 

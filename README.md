@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saiful Islam</h1>
-<h3 align="center">A passionate Software developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-saiful&label=Profile%20views&color=0e75b6&style=flat" alt="dev-saiful" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/dev_saiful" target="blank"><img src="https://img.shields.io/twitter/follow/dev_saiful?logo=twitter&style=for-the-badge" alt="dev_saiful" /></a> </p>
 
-- 🔭 I’m currently working on **DailyAmal**
+- 🔭 I’m currently working on **Ticket Management System**
 
-- 🌱 I’m currently learning **GenAI**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [dev-saiful.me](https://saiful.vercel.app)
 

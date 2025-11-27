@@ -1,38 +1,171 @@
-<h1 align="center">Hi 👋, I'm Saiful Islam</h1>
-<h3 align="center">A passionate Software Developer from Bangladesh</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Saiful Islam
+### GenAI Backend Developer | AI Solutions Architect
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-saiful&label=Profile%20views&color=0e75b6&style=flat" alt="dev-saiful" /> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-dev--saiful.me-blue?style=for-the-badge&logo=google-chrome)](https://saiful.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--saiful-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dev-saiful)
+[![Twitter](https://img.shields.io/badge/Twitter-@dev__saiful-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/dev_saiful)
+[![Email](https://img.shields.io/badge/Email-dev--saiful@outlook.com-D14836?style=for-the-badge&logo=gmail)](mailto:dev-saiful@outlook.com)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-saiful" alt="dev-saiful" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=dev-saiful&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://twitter.com/dev_saiful" target="blank"><img src="https://img.shields.io/twitter/follow/dev_saiful?logo=twitter&style=for-the-badge" alt="dev_saiful" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on **InteliTalk - AI ChatBot for University Environment**
+---
 
-- 🌱 I’m currently learning **NextJS and GenAI**
+## 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [dev-saiful.me](https://saiful.vercel.app)
+I'm a **GenAI Software Developer** from Bangladesh 🇧🇩 with a passion for building intelligent backend systems and AI-powered applications. I specialize in designing scalable architectures, implementing generative AI solutions, and creating robust APIs that power modern applications.
 
-- 💬 Ask me about **Back-end System**
+- 🔭 **Currently Working On:** [InteliTalk](https://github.com/dev-saiful) - AI ChatBot for University Environments
+- 🌱 **Learning:** Next.js, Advanced GenAI Techniques, LangChain, Vector Databases
+- 💼 **Open to:** Backend Developer, GenAI Engineer, AI/ML Engineer positions
+- 📍 **Location:** Narayanganj, Dhaka, Bangladesh
+- 📄 **[View My Resume](https://drive.google.com/file/d/1uphppbUFY0wiKEd7QVzvIzCJCL4FnGf2/view?usp=sharing)**
 
-- 📫 How to reach me **dev-saiful@outlook.com**
+---
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uphppbUFY0wiKEd7QVzvIzCJCL4FnGf2/view?usp=sharing)
+## 💼 Technical Expertise
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dev_saiful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_saiful" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dev-saiful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-saiful" height="30" width="40" /></a>
-<a href="https://fb.com/jsdev.saiful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jsdev.saiful" height="30" width="40" /></a>
-<a href="https://instagram.com/dev_saiful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_saiful" height="30" width="40" /></a>
-</p>
+### 🤖 GenAI & AI/ML
+```plaintext
+• Large Language Models (LLMs)    • Prompt Engineering
+• RAG (Retrieval Augmented Gen.)  • LangChain / LlamaIndex
+• OpenAI API / Anthropic Claude   • Vector Databases (Pinecone, Chroma)
+• Fine-tuning & Model Optimization • AI Chatbots & Conversational AI
+• Semantic Search                 • Embedding Models
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### ⚙️ Backend Development
+```plaintext
+• Node. js / Express.js            • Python / FastAPI / Django
+• RESTful API Design              • GraphQL
+• Microservices Architecture      • Serverless Computing
+• Authentication & Authorization  • JWT, OAuth 2.0
+• WebSockets & Real-time Systems  • Message Queues (RabbitMQ, Redis)
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-saiful&show_icons=true&locale=en&layout=compact" alt="dev-saiful" /></p>
+### 🗄️ Databases & Storage
+```plaintext
+• PostgreSQL / MySQL              • MongoDB / DynamoDB
+• Redis (Caching & Pub/Sub)       • Supabase / Firebase
+• Vector Databases                • Database Optimization & Indexing
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-saiful&show_icons=true&locale=en" alt="dev-saiful" /></p>
+### ☁️ Cloud & DevOps
+```plaintext
+• AWS (EC2, Lambda, S3, RDS)      • Google Cloud Platform
+• Docker & Kubernetes             • CI/CD (GitHub Actions, Jenkins)
+• Nginx / Apache                  • Linux Server Administration
+• Monitoring (Prometheus, Grafana)• Infrastructure as Code (Terraform)
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-saiful&" alt="dev-saiful" /></p>
+### 🛠️ Tools & Technologies
+```plaintext
+• Git & GitHub                    • Postman / Insomnia
+• VS Code / PyCharm               • Swagger / OpenAPI
+• Jupyter Notebooks               • Appwrite / Supabase
+```
 
+---
+
+## 🏆 Featured Projects
+
+### 🤖 [InteliTalk - AI University Chatbot](https://github.com/dev-saiful)
+> **GenAI-powered conversational assistant for university environments**
+- 🔹 Built with LangChain and OpenAI GPT models
+- 🔹 RAG implementation for university-specific knowledge base
+- 🔹 Real-time chat with context awareness
+- 🔹 Admin dashboard for managing conversations and analytics
+- 🔹 **Tech Stack:** Node.js, Python, FastAPI, PostgreSQL, Vector DB, React
+
+### 🌐 Portfolio Website
+> **Personal portfolio showcasing projects and skills**
+- 🔹 Modern, responsive design with smooth animations
+- 🔹 Dynamic content management
+- 🔹 **Tech Stack:** HTML, CSS, JavaScript
+- 🔹 [Live Demo](https://saiful.vercel.app)
+
+### 📊 [Backend System Architecture Projects]
+> **Scalable microservices and API development**
+- 🔹 RESTful and GraphQL APIs
+- 🔹 Authentication & role-based access control
+- 🔹 Database optimization and caching strategies
+- 🔹 Real-time data processing pipelines
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-saiful&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-saiful&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-saiful&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 What I Bring to Your Team
+
+✅ **AI/GenAI Expertise:** Hands-on experience building production-ready GenAI applications with LLMs  
+✅ **Scalable Architecture:** Design and implement microservices that handle high traffic  
+✅ **API Development:** Create well-documented, secure, and efficient APIs  
+✅ **Problem Solver:** Strong analytical skills with a focus on optimization and performance  
+✅ **Team Collaboration:** Experience working in agile environments with cross-functional teams  
+✅ **Continuous Learner:** Always staying updated with the latest AI and backend technologies  
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 **Bachelor's Degree in Computer Science**  
+📜 **Certifications:**
+- AWS Certified Solutions Architect (planned)
+- Machine Learning & AI Specializations
+- Full Stack Development
+
+---
+
+## 💬 Let's Connect! 
+
+I'm always interested in discussing:
+- 🤖 Generative AI and LLM applications
+- ⚙️ Backend architecture and system design
+- 🚀 Opportunities to collaborate on innovative projects
+- 💼 Full-time positions or exciting freelance projects
+
+<div align="center">
+
+### 📫 How to Reach Me
+
+[![Email](https://img.shields.io/badge/Email-dev--saiful@outlook.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dev-saiful@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-saiful)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dev-saiful.me)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev_saiful)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev-saiful&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐️ From [dev-saiful](https://github.com/dev-saiful) with ❤️**
+
+*"Building intelligent systems that solve real-world problems"*
+
+</div>

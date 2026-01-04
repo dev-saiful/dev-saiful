@@ -1,12 +1,14 @@
 <div align="center">
   
 # 👋 Hi, I'm Saiful Islam
-### GenAI Backend Developer | AI Solutions Architect
+### GenAI Backend Developer | MERN Stack
+
+🚀 Actively seeking Backend Developer and GenAI Engineer opportunities.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev--saiful.me-blue?style=for-the-badge&logo=google-chrome)](https://saiful.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--saiful-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dev-saiful)
 [![Twitter](https://img.shields.io/badge/Twitter-@dev__saiful-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/dev_saiful)
-[![Email](https://img.shields.io/badge/Email-dev--saiful@outlook.com-D14836?style=for-the-badge&logo=gmail)](mailto:dev-saiful@outlook.com)
+[![Email](https://img.shields.io/badge/Email-devwork.saiful@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:devwork.saiful@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dev-saiful&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -16,11 +18,11 @@
 
 ## 🚀 About Me
 
-I'm a **GenAI Software Developer** from Bangladesh 🇧🇩 with a passion for building intelligent backend systems and AI-powered applications. I specialize in designing scalable architectures, implementing generative AI solutions, and creating robust APIs that power modern applications.
+I'm a **GenAI Software Developer** from Bangladesh 🇧🇩 with a passion for building intelligent backend systems and AI-powered applications.I focus on developing scalable backend solutions, implementing generative AI features, and creating robust APIs for modern applications.
 
-- 🔭 **Currently Working On:** [InteliTalk](https://github.com/dev-saiful) - AI ChatBot for University Environments
+- 🔭 **Currently Working On:** [InteliTalk](https://intelitalk.vercel.app/) - AI ChatBot for University Environments
 - 🌱 **Learning:** Next.js, Advanced GenAI Techniques, LangChain, Vector Databases
-- 💼 **Open to:** Backend Developer, GenAI Engineer, AI/ML Engineer positions
+- 💼 **Open to:** Backend Developer (Node.js), GenAI Engineer
 - 📍 **Location:** Narayanganj, Dhaka, Bangladesh
 - 📄 **[View My Resume](https://drive.google.com/file/d/1uphppbUFY0wiKEd7QVzvIzCJCL4FnGf2/view?usp=sharing)**
 
@@ -28,37 +30,34 @@ I'm a **GenAI Software Developer** from Bangladesh 🇧🇩 with a passion for b
 
 ## 💼 Technical Expertise
 
-### 🤖 GenAI & AI/ML
+### 🤖 GenAI & AI
 ```plaintext
-• Large Language Models (LLMs)    • Prompt Engineering
-• RAG (Retrieval Augmented Gen.)  • LangChain / LlamaIndex
-• OpenAI API / Anthropic Claude   • Vector Databases (Pinecone, Chroma)
+• Large Language Models (LLMs)     • Prompt Engineering
+• RAG (Retrieval Augmented Gen.)   • LangChain / LlamaIndex
+• OpenAI API / Anthropic Claude    • Vector Databases (Pinecone, Chroma)
 • Fine-tuning & Model Optimization • AI Chatbots & Conversational AI
-• Semantic Search                 • Embedding Models
+• Semantic Search                  • Embedding Models
 ```
 
 ### ⚙️ Backend Development
 ```plaintext
-• Node. js / Express.js            • Python / FastAPI / Django
-• RESTful API Design              • GraphQL
-• Microservices Architecture      • Serverless Computing
-• Authentication & Authorization  • JWT, OAuth 2.0
-• WebSockets & Real-time Systems  • Message Queues (RabbitMQ, Redis)
+• Node. js / Express.js            • Python / FastAPI
+• RESTful API Design & Integration • GraphQL
+• Microservices Architecture       • Authentication & Authorization (JWT, OAuth 2.0)
+• WebSockets & Real-time Systems   • Message Queues (RabbitMQ, Redis)
 ```
 
 ### 🗄️ Databases & Storage
 ```plaintext
-• PostgreSQL / MySQL              • MongoDB / DynamoDB
-• Redis (Caching & Pub/Sub)       • Supabase / Firebase
+• PostgreSQL / MySQL              • MongoDB
+• Redis (Caching)                 • Supabase / Firebase
 • Vector Databases                • Database Optimization & Indexing
 ```
 
 ### ☁️ Cloud & DevOps
 ```plaintext
-• AWS (EC2, Lambda, S3, RDS)      • Google Cloud Platform
-• Docker & Kubernetes             • CI/CD (GitHub Actions, Jenkins)
-• Nginx / Apache                  • Linux Server Administration
-• Monitoring (Prometheus, Grafana)• Infrastructure as Code (Terraform)
+• AWS (EC2, Lambda, S3, RDS)      • Docker & Basic Kubernetes
+• CI/CD (GitHub Actions)          • Linux & Nginx
 ```
 
 ### 🛠️ Tools & Technologies
@@ -72,27 +71,21 @@ I'm a **GenAI Software Developer** from Bangladesh 🇧🇩 with a passion for b
 
 ## 🏆 Featured Projects
 
-### 🤖 [InteliTalk - AI University Chatbot](https://github.com/dev-saiful)
+### 🤖 [InteliTalk - AI University Chatbot](https://intelitalk.vercel.app/)
 > **GenAI-powered conversational assistant for university environments**
 - 🔹 Built with LangChain and OpenAI GPT models
 - 🔹 RAG implementation for university-specific knowledge base
 - 🔹 Real-time chat with context awareness
 - 🔹 Admin dashboard for managing conversations and analytics
-- 🔹 **Tech Stack:** Node.js, Python, FastAPI, PostgreSQL, Vector DB, React
+- 🔹 **Tech Stack:** Node.js, Groq, Langchain, MongoDB, ChromaDB, Next.js
 
 ### 🌐 Portfolio Website
 > **Personal portfolio showcasing projects and skills**
 - 🔹 Modern, responsive design with smooth animations
 - 🔹 Dynamic content management
-- 🔹 **Tech Stack:** HTML, CSS, JavaScript
+- 🔹 **Tech Stack:** Next.js, Framer-motion, TailwindCSS
 - 🔹 [Live Demo](https://saiful.vercel.app)
 
-### 📊 [Backend System Architecture Projects]
-> **Scalable microservices and API development**
-- 🔹 RESTful and GraphQL APIs
-- 🔹 Authentication & role-based access control
-- 🔹 Database optimization and caching strategies
-- 🔹 Real-time data processing pipelines
 
 ---
 
@@ -100,34 +93,37 @@ I'm a **GenAI Software Developer** from Bangladesh 🇧🇩 with a passion for b
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-saiful&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-saiful&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-saiful&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-saiful&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=dev-saiful&theme=tokyonight&hide_border=true)
+
 
 </div>
 
 ---
 
-## 🎯 What I Bring to Your Team
+## 🎯 What I Bring to the Team
 
-✅ **AI/GenAI Expertise:** Hands-on experience building production-ready GenAI applications with LLMs  
-✅ **Scalable Architecture:** Design and implement microservices that handle high traffic  
-✅ **API Development:** Create well-documented, secure, and efficient APIs  
-✅ **Problem Solver:** Strong analytical skills with a focus on optimization and performance  
-✅ **Team Collaboration:** Experience working in agile environments with cross-functional teams  
-✅ **Continuous Learner:** Always staying updated with the latest AI and backend technologies  
+✅ **GenAI & AI Development:** Hands-on experience building GenAI-powered applications using LLMs and modern AI tools
+✅ **Backend & Scalability:** Experience developing scalable backend systems and microservice-based solutions 
+✅ **API Engineering:** Skilled in building secure, well-documented, and efficient REST & GraphQL APIs  
+✅ **Problem Solving:** Strong analytical mindset with a focus on performance, optimization, and reliability
+✅ **Collaboration:** Comfortable working in agile teams and collaborating with cross-functional stakeholders 
+✅ **Continuous Learning:** Actively exploring new advancements in AI and backend technologies  
 
 ---
 
 ## 🎓 Education & Certifications
 
-🎓 **Bachelor's Degree in Computer Science**  
+🎓 **Bachelor's Degree in Computer Science and Engineering**
+- Sonargaon University
+
 📜 **Certifications:**
-- AWS Certified Solutions Architect (planned)
-- Machine Learning & AI Specializations
-- Full Stack Development
+- API Design in Node.js,V5 - FrontendMasters
+- Generative AI: Introduction and Applications - IBM
+- Complete NodeJS Developer - Zero to Mastery Academy
 
 ---
 
@@ -143,9 +139,9 @@ I'm always interested in discussing:
 
 ### 📫 How to Reach Me
 
-[![Email](https://img.shields.io/badge/Email-dev--saiful@outlook.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dev-saiful@outlook.com)
+[![Email](https://img.shields.io/badge/Email-devwork.saiful@gmail.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:devwork.saiful@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-saiful)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dev-saiful.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saiful.vercel.app)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev_saiful)
 
 </div>

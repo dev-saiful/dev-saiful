@@ -93,11 +93,9 @@ I'm a **GenAI Software Developer** from Bangladesh 🇧🇩 with a passion for b
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-saiful&show_icons=true&theme=tokyonight&hide_border=true)
+![Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dev-saiful)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-saiful&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=dev-saiful&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=dev-saiful&theme=tokyonight)
 
 
 </div>

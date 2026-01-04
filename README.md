@@ -105,10 +105,15 @@ I'm a **GenAI Software Developer** from Bangladesh 🇧🇩 with a passion for b
 ## 🎯 What I Bring to the Team
 
 ✅ **GenAI & AI Development:** Hands-on experience building GenAI-powered applications using LLMs and modern AI tools
-✅ **Backend & Scalability:** Experience developing scalable backend systems and microservice-based solutions 
-✅ **API Engineering:** Skilled in building secure, well-documented, and efficient REST & GraphQL APIs  
+
+✅ **Backend & Scalability:** Experience developing scalable backend systems and microservice-based solutions
+
+✅ **API Engineering:** Skilled in building secure, well-documented, and efficient REST & GraphQL APIs
+
 ✅ **Problem Solving:** Strong analytical mindset with a focus on performance, optimization, and reliability
-✅ **Collaboration:** Comfortable working in agile teams and collaborating with cross-functional stakeholders 
+
+✅ **Collaboration:** Comfortable working in agile teams and collaborating with cross-functional stakeholders
+
 ✅ **Continuous Learning:** Actively exploring new advancements in AI and backend technologies  
 
 ---

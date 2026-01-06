@@ -79,6 +79,15 @@ I'm a **GenAI Software Developer** from Bangladesh 🇧🇩 with a passion for b
 - 🔹 Admin dashboard for managing conversations and analytics
 - 🔹 **Tech Stack:** Node.js, Groq, Langchain, MongoDB, ChromaDB, Next.js
 
+### 🔗 [URL Shortener](https://github.com/dev-saiful/url-shortener)
+> **Designed and implemented a production-ready URL shortening service using NestJS, Redis, PostgreSQL, JWT authentication, rate-limiting, analytics tracking, and Dockerized deployment.**
+- 🔹 Designed and built a scalable URL Shortening service using NestJS and TypeScript, capable of handling high-concurrency traffic.
+- 🔹 Implemented secure JWT Authentication with sliding sessions (Refresh Tokens) and Role-Based Access Control (RBAC).
+- 🔹 Optimized read performance by 90% using Redis caching strategy for frequently accessed URLs.
+- 🔹 Ensured Data Consistency using PostgreSQL transactions for accurate click tracking and analytics.
+- 🔹 Containerized application using Docker for consistent development and deployment environments.
+- 🔹 **Tech Stack:** NestJS, PostgreSQL, Redis, JWT Authentication, Swagger, Docker Compose, Jest, Winston
+
 ### 🌐 Portfolio Website
 > **Personal portfolio showcasing projects and skills**
 - 🔹 Modern, responsive design with smooth animations

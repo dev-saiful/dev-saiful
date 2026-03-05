@@ -3,7 +3,6 @@
 # 👋 Hi, I'm Saiful Islam
 ### GenAI Backend Developer | MERN Stack
 
-🚀 Actively seeking Backend Developer and GenAI Engineer opportunities.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev--saiful.me-blue?style=for-the-badge&logo=google-chrome)](https://saiful.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--saiful-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dev-saiful)
@@ -79,7 +78,7 @@ I'm a **GenAI Software Developer** from Bangladesh 🇧🇩 with a passion for b
 - 🔹 Admin dashboard for managing conversations and analytics
 - 🔹 **Tech Stack:** Node.js, Groq, Langchain, MongoDB, ChromaDB, Next.js
 
-### 🔗 [URL Shortener](https://github.com/dev-saiful/url-shortener)
+### 🔗 [URL Shortener](https://saiful-urlshortener.vercel.app/)
 > **Designed and implemented a production-ready URL shortening service using NestJS, Redis, PostgreSQL, JWT authentication, rate-limiting, analytics tracking, and Dockerized deployment.**
 - 🔹 Designed and built a scalable URL Shortening service using NestJS and TypeScript, capable of handling high-concurrency traffic.
 - 🔹 Implemented secure JWT Authentication with sliding sessions (Refresh Tokens) and Role-Based Access Control (RBAC).
@@ -93,7 +92,7 @@ I'm a **GenAI Software Developer** from Bangladesh 🇧🇩 with a passion for b
 - 🔹 Modern, responsive design with smooth animations
 - 🔹 Dynamic content management
 - 🔹 **Tech Stack:** Next.js, Framer-motion, TailwindCSS
-- 🔹 [Live Demo](https://saiful.vercel.app)
+- 🔹 [Live Demo](https://saiful-pro.vercel.app)
 
 
 ---
